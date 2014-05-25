@@ -1,0 +1,1 @@
+python25  d:\pyinstaller-2.0\pyinstaller.py   --noupx -F --icon=rtspdeal.ico rtspdeal.py
